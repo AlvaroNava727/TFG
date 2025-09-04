@@ -20,3 +20,18 @@ Códigos:
 - UnionFichero.py: integración de CLAD_final y el dataset procesado para generar CLAD_solf.
 
 - Automl.py: pipeline de AutoML para el procesamiento y análisis del FEV1.
+
+Uso:
+
+Extracción de variables
+- Ejecutar FicheroGroq.py o FicheroOllama.py para obtener nuevas variables clínicas a partir de las notas.
+
+Procesamiento del dataset
+
+- Ejecutar GestionSintomasMedicamentos.py para separar síntomas y medicamentos.
+
+- Ejecutar UnionDatasets.py para fusionar el dataset inicial con las nuevas variables.
+
+Análisis con AutoML
+
+- Ejecutar AutoML.py para entrenar y evaluar modelos predictivos relacionados con el FEV1
