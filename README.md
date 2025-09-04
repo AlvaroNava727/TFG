@@ -28,10 +28,10 @@ Extracción de variables
 
 Procesamiento del dataset
 
-- Ejecutar GestionSintomasMedicamentos.py para separar síntomas y medicamentos.
+- Ejecutar SeparadorMedSint.py para separar síntomas y medicamentos.
 
-- Ejecutar UnionDatasets.py para fusionar el dataset inicial con las nuevas variables.
+- Ejecutar UnionFichero.py para fusionar el dataset inicial con las nuevas variables.
 
 Análisis con AutoML
 
-- Ejecutar AutoML.py para entrenar y evaluar modelos predictivos relacionados con el FEV1
+- Ejecutar Automl.py para entrenar y evaluar modelos predictivos relacionados con el FEV1
