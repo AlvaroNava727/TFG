@@ -7,7 +7,7 @@ Bases de datos:
 
 - CLAD_final.csv: dataset con las variables proporcionadas por el servicio de neumología.
 
-- CLAD_solf.csv: dataset enriquecido que combina CLAD_final con las variables obtenidas automáticamente mediante LLMs.
+- CLAD_solfreducido.csv: dataset enriquecido que combina CLAD_final con las variables obtenidas automáticamente mediante LLMs.
 
 Códigos:
 
