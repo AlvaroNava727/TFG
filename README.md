@@ -5,7 +5,7 @@ Este repositorio contiene las bases de datos y los scripts necesarios para el an
 
 Bases de datos:
 
-- CLAD_final.csv: dataset con las variables proporcionadas por el servicio de neumología.
+- dbo_EvolucionYComentariosPacientesReducido.csv: dataset con las variables proporcionadas por el servicio de neumología donde se encuentra las notas clínicas.
 
 - CLAD_solfreducido.csv: dataset enriquecido que combina CLAD_final con las variables obtenidas automáticamente mediante LLMs.
 
